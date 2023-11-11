@@ -1,1 +1,1 @@
-# Electric-Networks
+# ELE302 - Electric-Networks
